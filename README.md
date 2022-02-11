@@ -18,7 +18,7 @@ to enbale run:
 See packages.txt in the repo for the list of bloatware
 
 ## some noticable packages
-
+```
 com.sec.android.mimage.photoretouching  # Samsung photo editor
 com.osp.app.signin # Samsung account sign in. Samsung account is needed for SmartThings
 com.samsung.android.oneconnect # Samsung SmartThings
@@ -27,3 +27,4 @@ com.sec.android.app.soundalive  # needed for bluetooth headphones
 com.samsung.android.dynamiclock  # nice dynamic wallpapers
 com.samsung.android.themecenter # themes
 com.samsung.android.lool # samsung Device Care (needed for scheduled reboots)
+```
