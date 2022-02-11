@@ -17,7 +17,7 @@ to enbale run:
 
 See packages.txt in the repo for the list of bloatware
 
-## some noticable packages
+## Some noticable packages
 ```
 com.sec.android.mimage.photoretouching  # Samsung photo editor
 com.osp.app.signin # Samsung account sign in. Samsung account is needed for SmartThings
