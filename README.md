@@ -12,6 +12,7 @@ on PC:
 
 to disable package run:
 ```pm uninstall -k --user 0 <package_name>```
+
 to enbale run:
 ```pm install-existing --user 0 <package_name>```
 
